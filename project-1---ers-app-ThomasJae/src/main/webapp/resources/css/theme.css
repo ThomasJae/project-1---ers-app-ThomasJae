@@ -1,7 +1,9 @@
 @charset "ISO-8859-1";
 
 body {
+	background-image:url("https://data.pixelib.net/wp-content/uploads/2020/02/15025522/09.jpg");
 	background-color:#beebfe;
+	background-size:cover;
 	font-family:'Montserrat';
 }
 form {
@@ -16,6 +18,7 @@ h1 {
 	font-variant: small-caps;
 	text-shadow: 2px 2px grey;
 	font-weight: bold;
+	color: white;
 }
 .container{
 	width: 500px;
@@ -29,6 +32,16 @@ h1 {
   background-color: white;
   text-align: center;
 }
+#footer {
+	color: black;
+}
+h3 {
+	color: white;
+}
 h6 {
 	text-align: center;
+	color: white;
+}
+p {
+	color: white;
 }

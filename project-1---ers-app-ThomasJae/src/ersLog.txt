@@ -1,0 +1,91 @@
+2021-03-16 17:43:20 INFO  NewUserController:39 - New user registered
+2021-03-16 17:43:25 INFO  LoginController:45 - Employee has logged in
+2021-03-16 17:43:27 INFO  UserController:30 - User found
+2021-03-16 17:43:32 INFO  ListController:34 - List of reimbursements displayed
+2021-03-16 17:44:12 INFO  CreateController:52 - Employee has created a reimbursement request
+2021-03-16 17:44:16 INFO  ListController:34 - List of reimbursements displayed
+2021-03-16 17:44:48 INFO  CreateController:52 - Employee has created a reimbursement request
+2021-03-16 17:44:51 INFO  ListController:34 - List of reimbursements displayed
+2021-03-16 17:45:03 INFO  UserController:30 - User found
+2021-03-16 17:45:13 INFO  LogoutController:19 - User logged out
+2021-03-16 17:45:34 INFO  NewUserController:39 - New user registered
+2021-03-16 17:45:39 INFO  LoginController:42 - Manager has logged in
+2021-03-16 17:45:45 INFO  ListPlusController:34 - List of all reimbursements displayed
+2021-03-16 17:45:45 INFO  UserController:30 - User found
+2021-03-16 17:45:46 INFO  UserController:30 - User found
+2021-03-16 17:46:00 INFO  ResolveController:41 - Reimbursement status updated
+2021-03-16 17:46:04 INFO  ListPlusController:34 - List of all reimbursements displayed
+2021-03-16 17:46:11 INFO  UserController:30 - User found
+2021-03-16 17:46:43 INFO  CreateController:49 - Manager has created a reimbursement request
+2021-03-16 17:46:49 INFO  ListPlusController:34 - List of all reimbursements displayed
+2021-03-16 17:46:53 INFO  ListPlusController:34 - List of all reimbursements displayed
+2021-03-16 17:46:58 INFO  ListPlusController:34 - List of all reimbursements displayed
+2021-03-16 17:47:17 INFO  ResolveController:41 - Reimbursement status updated
+2021-03-16 17:47:23 INFO  ResolveController:41 - Reimbursement status updated
+2021-03-16 17:47:27 INFO  ListPlusController:34 - List of all reimbursements displayed
+2021-03-16 17:47:32 INFO  UserController:30 - User found
+2021-03-16 17:47:45 INFO  LogoutController:19 - User logged out
+2021-03-16 17:52:11 INFO  LoginController:45 - Employee has logged in
+2021-03-16 17:52:15 INFO  UserController:30 - User found
+2021-03-16 17:52:15 INFO  UserController:30 - User found
+2021-03-16 17:52:30 INFO  UserController:30 - User found
+2021-03-16 17:52:35 INFO  UserController:30 - User found
+2021-03-16 17:52:38 INFO  UserController:30 - User found
+2021-03-16 17:54:24 INFO  UserController:30 - User found
+2021-03-16 17:54:26 INFO  UserController:30 - User found
+2021-03-16 17:54:34 INFO  ListController:34 - List of reimbursements displayed
+2021-03-16 17:54:55 INFO  LogoutController:19 - User logged out
+2021-03-16 17:56:01 INFO  LoginController:45 - Employee has logged in
+2021-03-16 17:56:53 INFO  UserController:30 - User found
+2021-03-16 17:57:01 INFO  ListController:34 - List of reimbursements displayed
+2021-03-16 17:57:09 INFO  UserController:30 - User found
+2021-03-16 17:57:51 INFO  CreateController:52 - Employee has created a reimbursement request
+2021-03-16 17:57:53 INFO  UserController:30 - User found
+2021-03-16 17:57:55 INFO  ListController:34 - List of reimbursements displayed
+2021-03-16 17:58:36 INFO  UserController:30 - User found
+2021-03-16 18:00:56 INFO  UserController:30 - User found
+2021-03-16 18:00:59 INFO  LogoutController:19 - User logged out
+2021-03-16 18:05:12 INFO  LoginController:45 - Employee has logged in
+2021-03-16 18:05:23 INFO  UserController:30 - User found
+2021-03-16 18:05:23 INFO  UserController:30 - User found
+2021-03-16 18:05:25 INFO  UserController:30 - User found
+2021-03-16 18:05:27 INFO  ListController:34 - List of reimbursements displayed
+2021-03-16 18:05:39 INFO  UserController:30 - User found
+2021-03-16 18:05:40 INFO  UserController:30 - User found
+2021-03-16 18:06:07 INFO  UserController:30 - User found
+2021-03-16 18:06:10 INFO  ListController:34 - List of reimbursements displayed
+2021-03-16 18:06:12 INFO  UserController:30 - User found
+2021-03-16 18:06:29 INFO  LogoutController:19 - User logged out
+2021-03-16 18:06:57 INFO  LoginController:42 - Manager has logged in
+2021-03-16 18:07:02 INFO  UserController:30 - User found
+2021-03-16 18:07:04 INFO  ListPlusController:34 - List of all reimbursements displayed
+2021-03-16 18:08:08 INFO  UserController:30 - User found
+2021-03-16 18:08:08 INFO  UserController:30 - User found
+2021-03-16 18:08:09 INFO  UserController:30 - User found
+2021-03-16 18:08:10 INFO  UserController:30 - User found
+2021-03-16 18:08:12 INFO  UserController:30 - User found
+2021-03-16 18:08:16 INFO  ListPlusController:34 - List of all reimbursements displayed
+2021-03-16 18:08:45 INFO  UserController:30 - User found
+2021-03-16 18:08:45 INFO  UserController:30 - User found
+2021-03-16 18:08:49 INFO  UserController:30 - User found
+2021-03-16 18:08:51 INFO  LogoutController:19 - User logged out
+2021-03-16 18:09:57 INFO  NewUserController:39 - New user registered
+2021-03-16 18:10:03 INFO  LoginController:42 - Manager has logged in
+2021-03-16 18:10:05 INFO  UserController:30 - User found
+2021-03-16 18:10:06 INFO  UserController:30 - User found
+2021-03-16 18:10:07 INFO  UserController:30 - User found
+2021-03-16 18:10:36 INFO  CreateController:49 - Manager has created a reimbursement request
+2021-03-16 18:10:42 INFO  ListPlusController:34 - List of all reimbursements displayed
+2021-03-16 18:11:00 INFO  ResolveController:41 - Reimbursement status updated
+2021-03-16 18:11:03 INFO  ListPlusController:34 - List of all reimbursements displayed
+2021-03-16 18:11:17 INFO  UserController:30 - User found
+2021-03-16 18:11:22 INFO  LoginController:42 - Manager has logged in
+2021-03-16 18:11:28 INFO  ListPlusController:34 - List of all reimbursements displayed
+2021-03-16 18:11:46 INFO  ResolveController:41 - Reimbursement status updated
+2021-03-16 18:11:52 INFO  ListPlusController:34 - List of all reimbursements displayed
+2021-03-16 18:12:02 INFO  ResolveController:41 - Reimbursement status updated
+2021-03-16 18:12:06 INFO  ListPlusController:34 - List of all reimbursements displayed
+2021-03-16 18:12:24 INFO  ResolveController:41 - Reimbursement status updated
+2021-03-16 18:12:28 INFO  ListPlusController:34 - List of all reimbursements displayed
+2021-03-16 18:12:43 INFO  UserController:30 - User found
+2021-03-16 18:12:58 INFO  LogoutController:19 - User logged out
