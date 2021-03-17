@@ -22,6 +22,7 @@ in order to pass hard-coded assertion statements in DatabaseIntegrationTests fil
 * JavaScript
 * XML
 * JDBC
+* PostgreSQL
 * Oracle database
 * Maven
 * JUnit 4.12
