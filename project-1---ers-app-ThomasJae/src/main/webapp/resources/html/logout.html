@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Logout</title>
+<link
+	href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css"
+	rel="stylesheet"
+	integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl"
+	crossorigin="anonymous">
+<link href='https://fonts.googleapis.com/css?family=Montserrat'
+	rel='stylesheet'>
+<link rel="stylesheet" href="../css/theme.css">
+<script
+	src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js"
+	integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0"
+	crossorigin="anonymous"></script>
+</head>
+<body>
+	<div class="login-container">
+		<br>
+		<h1 style="text-align: center">Employee Reimbursement System</h1>
+
+		<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+			<div class="container-fluid">
+				<a class="navbar-brand" href="#">Navigate</a>
+				<button class="navbar-toggler" type="button"
+					data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
+					aria-controls="navbarNavAltMarkup" aria-expanded="false"
+					aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+					<div class="navbar-nav">
+						<a class="nav-link" 
+						href="http://localhost:8080/project-1---ers-app-ThomasJae/resources/html/home.html">Home</a>
+						<a class="nav-link"
+						href="http://localhost:8080/project-1---ers-app-ThomasJae/resources/html/create.html">New Reimbursement</a>
+						<a class="nav-link active" aria-current="page"
+						href="http://localhost:8080/project-1---ers-app-ThomasJae/resources/html/logout.html">Logout</a>
+					</div>
+				</div>
+			</div>
+		</nav> <br> <br>
+
+		<div id="introDiv">
+			<h3 style="text-align:center" id="h3">Are you <i><b>sure</b></i> you want to Log Out?</h3>
+		</div>
+		<br>
+		<div class="container">
+			<div class="row">
+				<div class="col"></div>
+				<div class="col" style="height:200px">
+					<form method="post" action="/project-1---ers-app-ThomasJae/logout.change"
+					  style="text-align:center">
+						<input type="submit" class="btn btn-primary" value="Logout"/>
+					</form>
+				</div>
+				<div class="col"></div>
+			</div>
+		</div>
+
+		<div class="footer">
+			<p>ERS Application, Updated 2021</p>
+		</div>
+		
+	</div>
+	
+</body>
+</html>

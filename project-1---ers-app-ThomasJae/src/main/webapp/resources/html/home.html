@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>ERS Home</title>
+<link
+	href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css"
+	rel="stylesheet"
+	integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl"
+	crossorigin="anonymous">
+<link href='https://fonts.googleapis.com/css?family=Montserrat'
+	rel='stylesheet'>
+<link rel="stylesheet" href="../css/theme.css">
+<script
+	src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js"
+	integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0"
+	crossorigin="anonymous"></script>
+</head>
+<body>
+	<div class="login-container">
+		<br>
+		<h1 style="text-align: center">Employee Reimbursement System</h1>
+
+		<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+			<div class="container-fluid">
+				<a class="navbar-brand" href="#">Navigate</a>
+				<button class="navbar-toggler" type="button"
+					data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
+					aria-controls="navbarNavAltMarkup" aria-expanded="false"
+					aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+					<div class="navbar-nav">
+						<a class="nav-link active" aria-current="page" 
+						href="http://localhost:8080/project-1---ers-app-ThomasJae/resources/html/home.html">Home</a>
+						<a class="nav-link"
+						href="http://localhost:8080/project-1---ers-app-ThomasJae/resources/html/create.html">New Reimbursement</a>
+						<a class="nav-link" 
+						href="http://localhost:8080/project-1---ers-app-ThomasJae/resources/html/index.html">Login</a>
+						<a class="nav-link"
+						href="http://localhost:8080/project-1---ers-app-ThomasJae/resources/html/logout.html">Logout</a>
+					</div>
+				</div>
+			</div>
+		</nav> <br> <br>
+
+		<div id="introDiv">
+			<h3 style="text-align:center" id="h3">Welcome Home</h3>
+			<h6 id="h6"></h6>
+		</div>
+		
+		<br>
+		<div id="buttonDiv" style="text-align:center">
+			<button onClick="javascript:window.location.href='http://localhost:8080/project-1---ers-app-ThomasJae/resources/html/create.html'"
+				type="button" class="btn btn-success" id="create">Create ERS Ticket</button>
+			<button type="button" class="btn btn-warning" id="list">View Reimbursement List</button>
+		</div>
+		<br>
+		
+		<div id="ticketTable">
+			<table class="table table-dark table-striped">
+				<thead>
+					<tr>
+						<th scope="col">Ticket ID#</th>
+						<th scope="col">Amount</th>
+						<th scope="col">Submitted</th>
+						<th scope="col">Resolved</th>
+						<th scope="col">Description</th>
+						<th scope="col">Author ID#</th>
+						<th scope="col">Resolver ID#</th>
+						<th scope="col">Status</th>
+						<th scope="col">Type</th>
+					</tr>
+				</thead>
+				<tbody id="listData">
+				</tbody>
+			</table>
+		</div>
+		<br>
+
+		<div class="footer">
+			<p>ERS Application, Updated 2021</p>
+		</div>
+		
+	</div>
+	
+	<script src="../js/home.js"></script>
+</body>
+</html>
