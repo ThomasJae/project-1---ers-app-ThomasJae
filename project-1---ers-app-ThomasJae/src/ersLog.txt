@@ -89,3 +89,32 @@
 2021-03-16 18:12:28 INFO  ListPlusController:34 - List of all reimbursements displayed
 2021-03-16 18:12:43 INFO  UserController:30 - User found
 2021-03-16 18:12:58 INFO  LogoutController:19 - User logged out
+2021-03-17 09:28:09 INFO  LoginController:45 - Employee has logged in
+2021-03-17 09:28:14 INFO  UserController:30 - User found
+2021-03-17 09:28:18 INFO  UserController:30 - User found
+2021-03-17 09:28:20 INFO  UserController:30 - User found
+2021-03-17 09:36:34 INFO  LogoutController:19 - User logged out
+2021-03-17 09:36:51 INFO  LoginController:42 - Manager has logged in
+2021-03-17 09:36:52 INFO  UserController:30 - User found
+2021-03-17 09:37:05 INFO  ListPlusController:34 - List of all reimbursements displayed
+2021-03-17 09:37:20 INFO  UserController:30 - User found
+2021-03-17 09:38:31 INFO  UserController:30 - User found
+2021-03-17 09:38:35 INFO  UserController:30 - User found
+2021-03-17 09:39:19 INFO  UserController:30 - User found
+2021-03-17 09:39:29 INFO  LoginController:45 - Employee has logged in
+2021-03-17 09:39:33 INFO  UserController:30 - User found
+2021-03-17 09:39:44 INFO  ListController:34 - List of reimbursements displayed
+2021-03-17 09:41:06 INFO  LogoutController:19 - User logged out
+2021-03-17 09:41:35 INFO  LoginController:42 - Manager has logged in
+2021-03-17 09:41:38 INFO  UserController:30 - User found
+2021-03-17 09:42:08 INFO  ListPlusController:34 - List of all reimbursements displayed
+2021-03-17 09:42:20 INFO  ListPlusController:34 - List of all reimbursements displayed
+2021-03-17 09:42:20 INFO  UserController:30 - User found
+2021-03-17 09:42:57 INFO  UserController:30 - User found
+2021-03-17 09:42:58 INFO  UserController:30 - User found
+2021-03-17 09:43:00 INFO  UserController:30 - User found
+2021-03-17 09:43:16 INFO  UserController:30 - User found
+2021-03-17 09:43:18 INFO  ListPlusController:34 - List of all reimbursements displayed
+2021-03-17 09:43:28 INFO  ListPlusController:34 - List of all reimbursements displayed
+2021-03-17 09:43:33 INFO  UserController:30 - User found
+2021-03-17 09:43:49 INFO  LogoutController:19 - User logged out
