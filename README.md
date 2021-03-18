@@ -31,6 +31,19 @@ in order to pass hard-coded assertion statements in DatabaseIntegrationTests fil
 * DBeaver
 * TomCat Apache Server v9
 
+## User Stories
+* As an Employee, I can login with a username and password saved in the database.
+* As a new Employee, I can register my credentials to append to the user database.
+* As an Employee, I can view a table of my past tickets, whether they are pending or have been resolved.
+* As an Employee, I can add a reimbursement request to the system.
+* As a Finance Manager, I can login with a username and password saved in the database.
+* As a new Finance Manager, I can register my credentials to append to the user database.
+* As a Finance Manager, I can view a table of all reimbursements for all employees.
+* As a Finance Manager, I can filter the table of reimbursement requests by their status (pending, approved, denied, or all).
+* As a Finance Manager, I can approve or deny a reimbursement request.
+* As a Finance Manager, I can add a reimbursement request to the system.
+* The user can log out, invalidating the session, not allowing the user to press Back and see any saved data.
+
 ## Requirements
 * The application shall employ the DAO design pattern, and properly separate your code into the appropriate layers
 * The back-end system shall use JDBC to connect to an Oracle database.
